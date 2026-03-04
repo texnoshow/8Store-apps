@@ -6,16 +6,26 @@
     "IconPath": "none",
     "DownloadUrl": "https://raw.githubusercontent.com/texnoshow/8Store-apps/refs/heads/main/64199CrispyApps.OldWindowsVersions_1.0.0.4_neutral__s2yxefhqv79jt.Appx"
   },
-    {
+  {
     "_comment": "=== ШАБЛОН === Чтобы добавить приложение, скопируй блок от { до }, измени текст в кавычках и вставь ниже. ГЛАВНОЕ: между блоками {...} обязательно должна стоять запятая!",
     "ID": "2",
     "Title": "8Store",
     "Category": "Store",
     "IconPath": "none",
     "DownloadUrl": "https://raw.githubusercontent.com/texnoshow/8Store-apps/refs/heads/main/Win81StoreRevival_6.0.0.0_AnyCPU_Debug.appx"
+  },
+  {
+    "_comment": "=== ШАБЛОН === Чтобы добавить приложение, скопируй блок от { до }, измени текст в кавычках и вставь ниже. ГЛАВНОЕ: между блоками {...} обязательно должна стоять запятая!",
+    "ID": "3",
+    "Title": "Survivalcraft",
+    "Category": "Games",
+    "IconPath": "none",
+    "DownloadUrl": "https://raw.githubusercontent.com/texnoshow/8Store-apps/refs/heads/main/20961CandyRufusGames.Survivalcraft_1.29.47.0_neutral__c7jxg4av36ap6.Appx"
   }
 
 
+
 ]
+
 
 
