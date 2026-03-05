@@ -27,11 +27,23 @@
     "DownloadUrl": "https://raw.githubusercontent.com/texnoshow/8Store-apps/refs/heads/main/20961CandyRufusGames.Survivalcraft_1.29.47.0_neutral__c7jxg4av36ap6.Appx",
     "MinOSVersion": "6.3",
     "MaxOSVersion": "6.3"
+  },
+   {
+    "_comment": "=== ШАБЛОН === Чтобы добавить приложение, скопируй блок от { до }, измени текст в кавычках и вставь ниже. ГЛАВНОЕ: между блоками {...} обязательно должна стоять запятая!",
+    "ID": "4",
+    "Title": "Yahoo! Finance",
+    "Category": "Finance",
+    "IconPath": "none",
+    "DownloadUrl": "https://raw.githubusercontent.com/texnoshow/8Store-apps/refs/heads/main/YahooInc.YahooFinance_1.0.0.12_neutral__xvnatx83ncrvj.Appx",
+    "MinOSVersion": "6.3",
+    "MaxOSVersion": "6.3"
   }
+  
 
 
 
 ]
+
 
 
 
