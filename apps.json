@@ -43,7 +43,7 @@
     "_comment": "=== ШАБЛОН === Чтобы добавить приложение, скопируй блок от { до }, измени текст в кавычках и вставь ниже. ГЛАВНОЕ: между блоками {...} обязательно должна стоять запятая!",
     "ID": "5",
     "Title": "SuperPhotoFree",
-    "Category": "Finance",
+    "Category": "Photos",
     "IconPath": "none",
     "DownloadUrl": "https://raw.githubusercontent.com/texnoshow/8Store-apps/refs/heads/main/63099Moonlighting.SuperPhotoFree_1.6.0.2_neutral__hths5t1tmnj8m.appx",
     "MinOSVersion": "6.3",
@@ -54,6 +54,7 @@
 
 
 ]
+
 
 
 
