@@ -23,7 +23,7 @@
     "_comment": "=== ШАБЛОН === Чтобы добавить приложение, скопируй блок от { до }, измени текст в кавычках и вставь ниже. ГЛАВНОЕ: между блоками {...} обязательно должна стоять запятая!",
     "ID": "3",
     "Title": "Build 2012",
-    "Category": "MS test apps",
+    "Category": "MS Build",
     "IconPath": "none",
     "DownloadUrl": "https://github.com/texnoshow/8Store-apps/raw/refs/heads/main/Microsoft.Build2012_1.0.2.4_8wekyb3d8bbwe.zip",
     "MinOSVersion": "6.3",
@@ -33,7 +33,7 @@
     "_comment": "=== ШАБЛОН === Чтобы добавить приложение, скопируй блок от { до }, измени текст в кавычках и вставь ниже. ГЛАВНОЕ: между блоками {...} обязательно должна стоять запятая!",
     "ID": "4",
     "Title": "Surface",
-    "Category": "Surface Pro bw",
+    "Category": "Surface Pro B/W",
     "IconPath": "none",
     "DownloadUrl": "https://github.com/texnoshow/8Store-apps/raw/refs/heads/main/Microsoft.SurfaceHub_2015.529.1905.5634_neutral_~_8wekyb3d8bbwe.AppxBundle",
     "MinOSVersion": "6.3",
@@ -46,6 +46,16 @@
     "Category": "Utils",
     "IconPath": "none",
     "DownloadUrl": "https://github.com/texnoshow/8Store-apps/raw/refs/heads/main/Microsoft.MyServer2012R2_1.1.0.0_neutral__8wekyb3d8bbwe.7z",
+    "MinOSVersion": "6.3",
+    "MaxOSVersion": "6.3"
+  },
+     {
+    "_comment": "=== ШАБЛОН === Чтобы добавить приложение, скопируй блок от { до }, измени текст в кавычках и вставь ниже. ГЛАВНОЕ: между блоками {...} обязательно должна стоять запятая!",
+    "ID": "6",
+    "Title": "City Art Search ",
+    "Category": "Archive",
+    "IconPath": "none",
+    "DownloadUrl": "https://github.com/texnoshow/8Store-apps/raw/refs/heads/main/Microsoft.CityArtSearch_2023.710.2009.0_neutral_~_8wekyb3d8bbwe.7z",
     "MinOSVersion": "6.3",
     "MaxOSVersion": "6.3"
   }
