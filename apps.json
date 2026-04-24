@@ -28,5 +28,15 @@
     "DownloadUrl": "https://github.com/texnoshow/8Store-apps/raw/refs/heads/main/Microsoft.Build2012_1.0.2.4_8wekyb3d8bbwe.zip",
     "MinOSVersion": "6.3",
     "MaxOSVersion": "6.3"
+  },
+   {
+    "_comment": "=== ШАБЛОН === Чтобы добавить приложение, скопируй блок от { до }, измени текст в кавычках и вставь ниже. ГЛАВНОЕ: между блоками {...} обязательно должна стоять запятая!",
+    "ID": "4",
+    "Title": "Surface",
+    "Category": "Surface Pro bw",
+    "IconPath": "none",
+    "DownloadUrl": "https://github.com/texnoshow/8Store-apps/raw/refs/heads/main/Microsoft.SurfaceHub_2015.529.1905.5634_neutral_~_8wekyb3d8bbwe.AppxBundle",
+    "MinOSVersion": "6.3",
+    "MaxOSVersion": "6.3"
   }
 ]
