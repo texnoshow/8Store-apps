@@ -18,5 +18,15 @@
     "DownloadUrl": "https://github.com/texnoshow/8Store-apps/raw/refs/heads/main/34596GuillermoRueda.MyExplorer_1.1.1.0_neutral__g93sxhsp0xrvw.Appx",
     "MinOSVersion": "6.3",
     "MaxOSVersion": "6.3"
+  },
+      {
+    "_comment": "=== ШАБЛОН === Чтобы добавить приложение, скопируй блок от { до }, измени текст в кавычках и вставь ниже. ГЛАВНОЕ: между блоками {...} обязательно должна стоять запятая!",
+    "ID": "3",
+    "Title": "Build 2012",
+    "Category": "MS test apps",
+    "IconPath": "none",
+    "DownloadUrl": "https://github.com/texnoshow/8Store-apps/raw/refs/heads/main/Microsoft.Build2012_1.0.2.4_8wekyb3d8bbwe.zip",
+    "MinOSVersion": "6.3",
+    "MaxOSVersion": "6.3"
   }
 ]
