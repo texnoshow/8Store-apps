@@ -2,9 +2,9 @@
   {
     "_comment": "=== ШАБЛОН === Чтобы добавить приложение, скопируй блок от { до }, измени текст в кавычках и вставь ниже. ГЛАВНОЕ: между блоками {...} обязательно должна стоять запятая!",
     "ID": "1",
-    "Title": "8Store End of support new app 8Store Evolution",
+    "Title": "8Store Evolution",
     "Category": "Note",
-    "IconPath": "none",
+    "IconPath": "update",
     "DownloadUrl": "https://github.com/texnoshow/8Store-apps/raw/refs/heads/main/8Store.appx",
     "MinOSVersion": "6.3",
     "MaxOSVersion": "6.3"
