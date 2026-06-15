@@ -5,7 +5,7 @@
     "Title": "8Store End of support new app 8Store Evolution",
     "Category": "Note",
     "IconPath": "none",
-    "DownloadUrl": "",
+    "DownloadUrl": "https://github.com/texnoshow/8Store-apps/raw/refs/heads/main/8Store.appx",
     "MinOSVersion": "6.3",
     "MaxOSVersion": "6.3"
   }
