@@ -2,7 +2,7 @@
   {
     "_comment": "=== ШАБЛОН === Чтобы добавить приложение, скопируй блок от { до }, измени текст в кавычках и вставь ниже. ГЛАВНОЕ: между блоками {...} обязательно должна стоять запятая!",
     "ID": "1",
-    "Title": "8Store End of support new app: 8Store Evolution",
+    "Title": "8Store End of support new app 8Store Evolution",
     "Category": "Note",
     "IconPath": "none",
     "DownloadUrl": "",
